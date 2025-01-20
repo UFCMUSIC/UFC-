@@ -55,4 +55,4 @@ async def on_left_chat_member(client: Client, message: Message):
         )
     ]
 ])
-        await new_message(LOG_GROUP_ID, ambye, reply_markup)
+        await new_message(LOGGER_ID, ambye, reply_markup)
