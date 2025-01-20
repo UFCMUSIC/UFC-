@@ -103,7 +103,7 @@ async def clone_txt(client, message, _):
                 "username": bot.username,
                 "channel": "ProBotts",
                 "support": "ProBotGc",
-                "premium" : False,
+                "premium" : True,
                 "Date" : False,
             }
             clonebotdb.insert_one(details)
