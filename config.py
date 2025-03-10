@@ -14,13 +14,13 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","ZeoXpro")
+OWNER_USERNAME = getenv("OWNER_USERNAME","UFC_INOCENT")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "ZeixBot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "UNOFFICIAL_MUSIC_BOT")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "ZeiX")
+BOT_NAME = getenv("BOT_NAME" , "˹𝗨𝗡𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 ✘ 𝗠𝗨𝗦𝗜𝗖˼")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "ZeixPro")
+ASSUSERNAME = getenv("ASSUSERNAME" , "UNOFFICIAL_MUSIC_BOT")
 # ---------------------------------------------------------
 
 
@@ -39,7 +39,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 LOGGER_ID = int(getenv("LOGGER_ID", -1002478982051))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 7355202884))
+OWNER_ID = int(getenv("OWNER_ID", 5280511188))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 # config.py
@@ -54,7 +54,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Rocky9852/ZeixBots",
+    "https://github.com/BABY-X-MUSIC/PRO",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
@@ -68,10 +68,10 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/SaregamaUpdate")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/SaregamaSupport")
-SOURCE = getenv("SOURCE", "https://t.me/SaregamaSupport")
-CHAT = getenv("CHAT", "https://t.me/SaregamaSupport")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/UFC_NETWORK")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/addlist/YTfSz81877xlZGNl")
+SOURCE = getenv("SOURCE", "https://t.me/UFC_NETWORK")
+CHAT = getenv("CHAT", "https://t.me/addlist/YTfSz81877xlZGNl")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -139,21 +139,21 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://graph.org/file/c61b0474536561616b0a9-88166664659d4173c9.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/wyh84p.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://graph.org/file/c61b0474536561616b0a9-88166664659d4173c9.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/wyh84p.jpg"
 )
-PLAYLIST_IMG_URL = "https://graph.org/file/5f6635e528adf8f682ee6-b25a6861c6a4fdfa1a.jpg"
-STATS_IMG_URL = "https://graph.org/file/13135b2d94228e1a30945-2d74a247e615aeee65.jpg"
-TELEGRAM_AUDIO_URL = "https://graph.org/file/8507e4058424d71d05884-c08ce07c38846ff394.jpg"
-TELEGRAM_VIDEO_URL = "https://graph.org/file/8507e4058424d71d05884-c08ce07c38846ff394.jpg"
-STREAM_IMG_URL = "https://graph.org/file/5f6635e528adf8f682ee6-b25a6861c6a4fdfa1a.jpg"
-SOUNCLOUD_IMG_URL = "https://graph.org/file/13c350a33cae1fdc1cd98-917bf94a5b25aeec09.jpg"
-YOUTUBE_IMG_URL = "https://graph.org/file/d74f9a8ca05636fa9f816-476bf17c89b152e2a7.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://graph.org/file/13c350a33cae1fdc1cd98-917bf94a5b25aeec09.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://graph.org/file/a004494c27776411079e9-d0910b49c83945559d.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://graph.org/file/a004494c27776411079e9-d0910b49c83945559d.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/wyh84p.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/wyh84p.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/wyh84p.jpg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/wyh84p.jpg"
+STREAM_IMG_URL = "https://files.catbox.moe/wyh84p.jpg"
+SOUNCLOUD_IMG_URL = "https://files.catbox.moe/wyh84p.jpg"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/wyh84p.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/wyh84p.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/wyh84p.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/wyh84p.jpg"
 
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
@@ -184,4 +184,4 @@ if SUPPORT_CHAT:
 # ----------------------------------------------------------------------------------------
 # ----------------------------------------------------------------------------------------
 
-CLONE_LOGGER = int(getenv("CLONE_LOGGER", -1002061652056))
+CLONE_LOGGER = int(getenv("CLONE_LOGGER", -1002127386247))
