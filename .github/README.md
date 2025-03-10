@@ -1,15 +1,15 @@
 <h2 align="center">
-    ──「 𝘀𝗮𝗿𝗴𝗮𝗺 ダ 𝗺𝘂𝘀𝗶𝗰 」──
+    ──「 ˹𝗨𝗡𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 ✘ 𝗠𝗨𝗦𝗜𝗖˼ 」──
 </h2>
 
 <p align="center">
-  <img src="https://files.catbox.moe/yeeu8p.jpg">
+  <img src="https://files.catbox.moe/hbkwsg.jpg">
 </p>
 
 <p align="center">
 <a href="https://github.com/TeamProBots/ZeixBots"><img src="https://img.shields.io/github/stars/TeamProBots/ZeixBots?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 <a href="https://github.com/TeamProBots/ZeixBots/network/members"> <img src="https://img.shields.io/github/forks/TeamProBots/ZeixBots?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/TeamProBots/ZeixBots/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/BABY-X-MUSIC/PRO/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://github.com/TeamProBots/ZeixBots/commits?author=yasirakhtar"> <img src="https://img.shields.io/github/last-commit/TeamProBots/ZeixBots?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
@@ -22,7 +22,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TeamProBots/ZeixBots"> <img src="https://www.herokucdn.com/deploy/button.svg"></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/BABY-X-MUSIC/PRO"> <img src="https://www.herokucdn.com/deploy/button.svg"></a></p>
 
 
 
@@ -55,7 +55,7 @@
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/TeamProBots/ZeixBots && cd ZeixBots
+   git Clone https://github.com/BABY-X-MUSIC/PRO && cd PRO
    ```
 6. **Install Requirements**
    ```bash
