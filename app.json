@@ -1,7 +1,7 @@
 {
-    "name": "𝙱𝙰𝙱𝚈 𝙼𝚄𝚂𝙸𝙲",
+    "name": "UNOFFICIAL_MUSIC_BOT",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/0b074f71a8bb316eda177.jpg",
+    "logo": "https://files.catbox.moe/wyh84p.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -54,7 +54,7 @@
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "-1002031903841",
+        "value": "-1002127386247",
         "required": true
       }
     },
