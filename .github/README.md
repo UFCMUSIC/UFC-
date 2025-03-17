@@ -9,7 +9,7 @@
 <p align="center">
 <a href="https://github.com/TeamProBots/ZeixBots"><img src="https://img.shields.io/github/stars/TeamProBots/ZeixBots?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 <a href="https://github.com/TeamProBots/ZeixBots/network/members"> <img src="https://img.shields.io/github/forks/TeamProBots/ZeixBots?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/BABY-X-MUSIC/PRO/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/UFCMUSIC/UFC-/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://github.com/TeamProBots/ZeixBots/commits?author=yasirakhtar"> <img src="https://img.shields.io/github/last-commit/TeamProBots/ZeixBots?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
@@ -22,7 +22,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/BABY-X-MUSIC/PRO"> <img src="https://www.herokucdn.com/deploy/button.svg"></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/UFCMUSIC/UFC-"> <img src="https://www.herokucdn.com/deploy/button.svg"></a></p>
 
 
 
@@ -111,5 +111,5 @@ For a full list of commands, use `/help` in [telegram](https://t.me/ZeixBot).
 </p>
 
 <p align="center">
-<a href="https://t.me/ProBotts"><img src="https://img.shields.io/badge/-Update%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/ll_ZIDDI_SHAYAR_ll"><img src="https://img.shields.io/badge/-Update%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
