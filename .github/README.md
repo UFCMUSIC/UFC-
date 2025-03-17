@@ -55,7 +55,7 @@
    ```
 5. **Clone the Repository**
    ```bash
-   git Clone https://github.com/BABY-X-MUSIC/PRO && cd PRO
+   git Clone https://github.com/UFCMUSIC/UFC- && cd PRO
    ```
 6. **Install Requirements**
    ```bash
